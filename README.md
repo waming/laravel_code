@@ -4,4 +4,5 @@
 
 ## 代码相关
 1.[保存sql语句到日志文件](print_sql.md)
-2.[异常相关处理](exception.md)
+
+2.[异常处理](exception.md)
