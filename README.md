@@ -3,8 +3,8 @@
 
 
 ## 代码相关
-1.[保存sql语句到日志文件](print_sql.md)
+[保存sql语句到日志文件](print_sql.md)
 
-2.[异常处理](exception.md)
+[异常处理](exception.md)
 
-2.[记录所有的输入输出数据](logRequest.md)
+[记录所有的输入输出数据](logRequest.md)
